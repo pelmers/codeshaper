@@ -1,4 +1,4 @@
-# [Make JS Art](https://makejs.art/)
+# [Make JS Art](https://makejsart.pelmers.com/)
 
 JavaScript formatter (I guess?) that turns your code into (executable!) ascii
 art in the form of a picture.
@@ -6,7 +6,7 @@ art in the form of a picture.
 **Example:**
 ![](example.gif)
 
-**[Try it out!](https://makejs.art/)**
+**[Try it out!](https://makejsart.pelmers.com/)**
 
 Works best with images that have a well-defined subject.
 
